@@ -79,22 +79,22 @@ python scripts/deploy-vm.py
 
 ## Étapes effectuées :
 
-```bash
+
 - Connexion sécurisée à vCenter
 - Vérification des ressources
 - Clonage de la VM
 - Configuration (CPU, RAM, disque)
 - Connexion réseau
 - Démarrage (optionnel)
-```
+
 
 ---
 
 ## Logs
 
-```bash
-Tous les événements sont enregistrés dans le dossier logs/ avec des fichiers datés.
-```
+
+- Tous les événements sont enregistrés dans le dossier logs/ avec des fichiers datés.
+
 
 ---
 
